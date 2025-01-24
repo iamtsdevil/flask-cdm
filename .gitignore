@@ -1,0 +1,27 @@
+# Ignore virtual environment directories
+venv/
+
+# Ignore compiled Python files
+__pycache__/
+modules/__pycache__/
+services/__pycache__/
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore content directory
+content/
+
+# Ignore specific files
+PythonImportHelper-v2-Completion.json
+config.ini
+logs/logfile.log
+device
+logs
+# Ignore log files
+
+
+# Ignore cookies
+
+logs/logfile.log
+logs/logfile.log
